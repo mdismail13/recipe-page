@@ -37,8 +37,8 @@ body{
     display: grid;
     align-items: center;
     justify-content: center;
-    margin-block-start: 5rem;
-    margin-block-end: 5rem;
+    margin-block-start: 7rem;
+    margin-block-end: 7rem;
 }
 
 .page-container{
@@ -48,7 +48,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    max-width: 25rem;
+    max-width: 45rem;
 }
 
 .banner-img{
