@@ -44,7 +44,7 @@ body{
 .page-container{
     background-color: var(--White);
     border-radius: 1.25rem;
-    padding: 1.5rem;
+    padding: 2.5rem;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -57,7 +57,7 @@ body{
 }
 
 .page-title{
-    font-size: 2rem;
+    font-size: 2.25rem;
     font-weight: 400;
     margin-block-start: 1.5rem;
     margin-block-end: 1rem;
@@ -126,7 +126,7 @@ body{
 }
 
 .instructions-list{
-    margin-block-start: 1.5rem;
+    margin-block-start: 1rem;
     font-weight: 700;
 }
 
